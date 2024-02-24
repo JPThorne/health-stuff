@@ -26,4 +26,4 @@ Repeat on opposite leg
 Repeat 10 – 20 x on each leg
 ```
 
-![single-leg-bridge](image.png)
+![single-leg-bridge](images/single-leg-bridge.png)
